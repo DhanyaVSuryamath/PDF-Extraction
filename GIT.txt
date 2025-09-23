@@ -18,4 +18,5 @@ git branch -M main
 
 git push -u origin main  
 
+any changes made in github repo pull here in vscode
 git pull origin main --rebase
