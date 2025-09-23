@@ -1,0 +1,21 @@
+git init 
+
+git remote add origin https://github.com/DhanyaVSuryamath/PDF-Extraction.git
+
+git remote -v 
+
+adding single file 
+git add 1_LLM-chains_Simple_chains.ipynb  
+
+add all files 
+git add .
+
+git status
+
+git commit -m  "adding 1st file" 
+
+git branch -M main  
+
+git push -u origin main  
+
+git pull origin main --rebase
